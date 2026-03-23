@@ -3,7 +3,7 @@ let spritesheet;
 let spritedata;
 let animation = [];//array that will store all the images
 let frame = 0;
-let x = 0;
+let x = 0; //this is separte to the sprite bc the x and y values there only define what image it is.
 let y = 0;
 
 function preload(){
