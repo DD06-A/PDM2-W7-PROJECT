@@ -44,3 +44,5 @@ function keyPressed(){// NOT KEYISPRESSED BC ITS A BOOLEAN
 }
 
 //the sprite is 32, so in the JSON file, you can choose your sprite by changing the y value by 32
+//always reference the code you use, never just copy 
+//use try catch
